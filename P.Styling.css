@@ -1,6 +1,5 @@
 .header {
-    background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 7%, rgba(0,0,0,1) 93%, rgba(255,255,255,1) 100%);
+    background: black;
     overflow: hidden;
     text-align: center;
     justify-content: center;
@@ -259,10 +258,9 @@ p {
 
 .homeimage {
     padding-top: 60px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(189, 0, 0);
-        background: linear-gradient(90deg, rgba(189,0,0,1) 0%, rgb(0, 0, 0) 2%, rgb(255, 255, 255) 45%, rgb(255, 255, 255) 55%, rgb(0, 0, 0) 98%, rgba(189,0,0,1) 100%);
+    background: rgb(0, 0, 0);
 }
