@@ -42,18 +42,21 @@
     
 }
 
+@font-face {
+    font-family: Neon Energy X;
+    src: url('NEON ENERGY X.TTF');
+}
+
 .external {
     text-align: left;
     font-size: x-large;
     overflow: hidden;
     color: rgb(255, 255, 255);
     background: rgb(228,228,228);
-        background: linear-gradient(0deg, rgba(228,228,228,1) 0%, rgba(0,0,0,1) 10%);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: fixed;
+        background: linear-gradient(0deg, rgba(228,228,228,1) 0%, rgba(0,0,0,1) 10%);position: fixed;
     top: 0;
     width: 100%;
-    
+    font-family: 'Neon Energy X', sans-serif;
 }
 
 .external a {
